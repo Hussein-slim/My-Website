@@ -1,0 +1,37 @@
+[
+    {
+        "fullname": "Nathalie",
+        "username": "Nathalie",
+        "password": "test123",
+        "sex": "female",
+        "birthdate": "03\/10\/03"
+    },
+    {
+        "fullname": "Diana El Ashkar",
+        "username": "Diana",
+        "password": "LadyD@04",
+        "sex": "f",
+        "birthdate": "04\/10\/1974"
+    },
+    {
+        "fullname": "Catherine",
+        "username": "Cathy",
+        "password": "Hello",
+        "sex": "f",
+        "birthdate": null
+    },
+    {
+        "fullname": "Hussein Slim",
+        "username": "slim01",
+        "password": "asdf1",
+        "sex": "f",
+        "birthdate": null
+    },
+    {
+        "fullname": "tala",
+        "username": "tala1",
+        "password": "asdf2",
+        "sex": "f",
+        "birthdate": null
+    }
+]
